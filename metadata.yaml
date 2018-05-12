@@ -1,0 +1,24 @@
+_repo: Across-America-by-Motor-cycle_44505
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44505-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shepherd, C. K.
+    gutenberg_agent_id: '42788'
+    url: http://www.gutenberg.org/2009/agents/42788
+description: ''
+gutenberg_issued: '2013-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+title: Across America by Motor-cycle
+url: http://www.gutenberg.org/ebooks/44505
